@@ -1,0 +1,53 @@
+
+.top{
+    display: flex;
+  width: 100%;  
+}
+
+.topbackground{
+    background-image: url(/images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    /* width: 100%; */
+}
+
+.topicon{
+    display: flex;
+    /* flex-direction: row;
+   align-content: center;
+   justify-content: center; */
+   margin-left: auto;
+   margin-right: auto;
+   /* margin-bottom: 20rem; */
+}
+.topbutton{
+    display: flex ;
+    flex-direction: row;
+   
+    /* justify-content: center; */
+    justify-content: space-around;
+     margin-left:35rem;
+    margin-right: 35rem;
+   
+}
+
+.topbutton1{
+    border:  2px solid rgb(29, 161, 232);
+    border-radius: 4rem;
+    padding: 10px;
+    background-color: rgb(29, 161, 232);
+    color: white;
+    
+}
+
+.topbutton2{
+      border:  2px solid  rgb(61, 61, 156);
+    border-radius: 4rem;
+    padding: 10px;
+     color: white;
+     background-color: rgb(61, 61, 156);
+}
+
+.row-1{
+    display: flex;
+    width: 100%;
+}
