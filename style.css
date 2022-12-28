@@ -38,12 +38,13 @@
     font-size: xx-large;
     color:rgb(80, 78, 78);
     font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 1rem;
     
 }
 
 .first-text p {
   color:rgb(111, 109, 109);
-  /* margin-bottom: 4rem; */
+  margin-bottom: 2rem;
 }
 .topbutton{
     display: flex ;
@@ -51,8 +52,9 @@
    
     /* justify-content: center; */
     justify-content: space-around;
-    margin-left:35rem;
-    margin-right: 35rem;
+    /* margin-left:35rem;
+    margin-right: 35rem; */
+    margin-bottom: 6rem;
    
 }
 
@@ -62,6 +64,7 @@
     padding: 10px;
     background-color: rgb(29, 161, 232);
     color: white;
+    margin-right: 1rem;
     
 }
 
